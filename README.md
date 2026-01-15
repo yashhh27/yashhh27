@@ -14,7 +14,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white">
   </a>
   <a href="mailto:yashsavaliya.tech@gmail.com">
-    <img src="https://img.shields.io/badge/Email-harsh@harsh.software-EA4335?style=flat-square&logo=gmail&logoColor=white">
   </a>
 </p>
 
