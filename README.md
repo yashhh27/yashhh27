@@ -20,8 +20,13 @@
 ---
 
 ### 🌟 About Me
-I'm a **Software Engineer** passionate about creating impactful digital experiences — from intuitive frontends to robust backend systems.  
-Currently pursuing my **MS in Computer Science at CSU - Fulelrton**, I’ve built products that blend **aesthetic design** and **engineering precision**.
+I'm a **Software Engineer** passionate about creating impactful digital experiences from intuitive frontends to robust AI + backend systems, who loves turning real-world problems into clean, structured systems from secure APIs to AI-powered tools.
+Currently pursuing my **MS** in **Computer Science** at **CSU Fullerton**, I build with a first-principles mindset: break the problem down, build step-by-step, validate early, and iterate with strong engineering habits.
+
+Right now, I’m building:
+
+Currently building **MedSafe**, an **AI-powered personal health assistant** that learns from a user’s prescriptions over time, maintains a personal health history, and delivers context-aware suggestions. It also supports safety checks for drug–drug, food–drug, and drug–condition interactions.
+
 
 💡 I love working on:
 - Scalable full-stack applications  
@@ -48,11 +53,18 @@ Currently pursuing my **MS in Computer Science at CSU - Fulelrton**, I’ve buil
 ---
 
 ### 🚀 Featured Projects
-- 🧠- **MedSafe Knowledge Base** — a symbolic AI **reasoning engine** for medication safety  that models drugs, interactions, and safety rules to produce explainable recommendations.  
-  Focus: transparency, clinical traceability, and rule-based decision support  
-  Tech: Prolog (SWI-Prolog), KRR, inference rules
-- 🦾 **SpotiFind Inspiration** – Multimodal accessibility app that won *HopperHacks 2025*
-- 🌍 **Virtual Street Explorer** – Gesture-controlled navigation through Google Street View
+🧠- **MedSafe Knowledge Base** — a symbolic AI **reasoning engine** for medication safety. 
+  **Focus:** transparency, clinical traceability, and rule-based decision support  
+  **Tech:** Prolog (SWI-Prolog), KRR, inference rules.
+
+📊- **Reddit Analytics Explorer** — a data-driven **insight engine** for analyzing Reddit discussions and trends.
+**Focus:** topic discovery, sentiment/trend insights, and interpretable analysis for decision-making
+**Tech:** OpenAI small embeddings model, OpenAI GPT 4.1, Python, Pandas, NLP, clustering + visualization Streamlit, Plotly 
+
+🔐- **SecureBox** — a hands-on **cybersecurity demo lab simulating** real-world web attacks and defenses.
+Focus: SQL Injection, CSRF, input validation, and brute-force attacks with real-time admin logging
+Tech: Web security fundamentals, auth flows, rate-limiting/lockouts, secure coding patterns.
+
 
 ---
 
